@@ -1,2 +1,2 @@
-# Blu-corsaro
+# Blu Corsaro
 ## The Universal Cloud Client
